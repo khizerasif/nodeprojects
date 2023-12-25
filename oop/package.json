@@ -1,0 +1,19 @@
+{
+  "name": "@syedsaim/.prac10.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prac10.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "@syedsaim/prac.js",
+  "version": "1.2.5",
+  "main": "calculator.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular-devkit/core": "^16.2.1",
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.4"
+  },
+  "dependencies": {
+    "@syedsaim/prac.js": "^1.2.5",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.10"
+  },
+  "description": ""
+}

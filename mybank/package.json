@@ -1,0 +1,22 @@
+{
+  "name": "@syedsaim/.prac11.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prac11.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.6"
+  }
+}
